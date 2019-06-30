@@ -1,0 +1,23 @@
+>First you need to install and run kali_linux in your pc
+
+>Open Terminal 
+
+>type...
+
+>git clone https://github.com/thelinuxchoice/shellphish.git
+
+>(now shellphish is installed in your linux)
+
+>ls
+
+>cd shellphish
+
+>ls
+
+>bash shellphish.sh
+
+>(choose your choice)
+
+>(select the number and proced)
+
+>(send the link to your target. If the open the link you will get the result)
